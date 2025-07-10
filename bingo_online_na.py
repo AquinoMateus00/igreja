@@ -67,7 +67,7 @@ with col1:
         letra = letra_bingo(numero_atual)
         st.markdown(f"""
             <div style='
-                font-size: 48px; 
+                font-size: 32px; 
                 font-weight: 700; 
                 color: red; 
                 border: 3px solid red; 
