@@ -131,8 +131,8 @@ with col2:
             padding: 6px;            
             text-align: center;
             width: 16%;
-            height: 5px;
-            font-size: 11px;
+            height: 8px;
+            font-size: 14px;
             font-weight: bold;
         }
         th {
